@@ -1,1 +1,1 @@
-# Android device tree for AIDATA ADT1061 (ADT1061)
+# Android device tree for AIDATA ADT1061
