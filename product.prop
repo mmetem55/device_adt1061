@@ -1,0 +1,11 @@
+persist.netmon.linger=10000
+persist.storage.type=2
+ro.base_build=noah
+ro.carrier=oversea
+ro.com.google.clientidbase=android-elink
+ro.com.google.gmsversion=10_202009
+ro.opa.eligible_device=true
+ro.setupwizard.rotation_locked=false
+ro.version.software=ums512_q0_20201219
+setupwizard.theme=glif_v3_light
+sys.internal.emulated=1
